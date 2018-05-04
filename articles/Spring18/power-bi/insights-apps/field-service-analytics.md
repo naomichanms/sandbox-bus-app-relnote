@@ -27,3 +27,5 @@ as bookings. The app helps answer questions like:
 -   What is the average duration of an incident?
 
 -   How many work orders have been completed by each field service engineer?
+
+-   **Other KPIs will be described here**
