@@ -19,7 +19,7 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
-Through AppSource, users can discover out-of-the-box [Power BI
+Through AppSource, users can discover out-of-the-box [Power BI bla bla
 apps](power-bi-apps-cds-a/index.md) from Microsoft and third parties that provide
 domain-optimized analytics based on Common Data Service for Analytics, which are
 customizable using Power BI. These solutions leverage and extend the common
