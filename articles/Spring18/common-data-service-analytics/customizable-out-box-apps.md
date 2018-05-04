@@ -1,4 +1,3 @@
-
 ---
 
 title: Customizable out-of-the-box apps
@@ -17,10 +16,8 @@ audience: Admin
 ---
 #  Customizable out-of-the-box apps
 
-[Link text](http://www.microsoft.com "Alt text") 
 
-
-![alt text for image](/sandbox-bus-app-relnote/articles/Spring18/common-data-service-analytics/media/johan.png "Hover text")
+![johan hoffmann](media/Johan.png "johan")
 
 [!include[banner](../../includes/banner.md)]
 
