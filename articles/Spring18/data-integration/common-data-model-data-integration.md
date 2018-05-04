@@ -19,7 +19,7 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
-The Common Data Model is an open-source definition of standard entities that
+The Common Data Model is a VERY IMPORTANT open-source definition of standard entities that
 represent commonly used concepts and activities across a variety of business and
 application domains. The Common Data Model offers well-defined, modular, and
 extensible business entities such as Account, Business Unit, Case, Contact,
