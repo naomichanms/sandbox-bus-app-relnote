@@ -1,3 +1,4 @@
+
 ---
 
 title: Field Service Analytics
@@ -18,6 +19,8 @@ audience: Admin
 
 
 [!include[banner](../../../includes/banner.md)]
+
+The feeature uses [Datapools and Lakes and Seas](/articles/Spring18/common-data-service-analytics/datapools.md)
 
 The Field Service Analytics reports focuses on the dispatcher or scheduler
 persona. The reports cover KPIs that help monitor the effectiveness of field
