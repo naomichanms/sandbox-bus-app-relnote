@@ -20,7 +20,7 @@ audience: Admin
 [Link text](http://www.microsoft.com "Alt text") 
 
 
-![alt text for image](/entity-reference/media/johan.png "Hover text")
+![alt text for image](/sandbox-bus-app-relnote/articles/Spring18/common-data-service-analytics/media/johan.png "Hover text")
 
 [!include[banner](../../includes/banner.md)]
 
