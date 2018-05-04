@@ -27,6 +27,15 @@ Lead, Opportunity, and Product. It also offers interactions and relationships
 between vendors, workers, and customers, such as activities and service level
 agreements.
 
+| Case Name                                  | Total Number | Failed Number | Passed Number |
+|--------------------------------------------|--------------|---------------|---------------|
+| Missing alerts                             | 299          | 0             | 299           |
+| Missing breadcrumbs                        | 299          | 2             | 297           |
+| Broken breadcrumb links                    | 1794         | 1             | 1793          |
+| Breadcrumb links to pages external to Docs | 1794         | 0             | 1794          |
+
+[Link to another topic](../common-data-service-analytics/datapools.md)
+
 The Common Data Service for Apps and the Common Data Service for Analytics from
 Microsoft implement the Common Data Model. These services hold data that
 conforms to the Common Data Model definition. By building on top of these
