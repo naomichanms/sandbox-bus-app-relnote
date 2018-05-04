@@ -3,15 +3,15 @@
 
 title: New stuff
 description: Always good to have new stuff
-author: [author's GitHub alias]
+author: cbraunpm
 manager: [AnnBe/shellyhaverkamp/edupont04]
 ms.date: [Today's date]
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: [author's Microsoft alias]
-audience: [developer, admin, end user, citizen developer, customizer, business analyst, IT pro]
+ms.author: chbraun
+audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 
 ---
 
