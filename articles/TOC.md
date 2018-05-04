@@ -4,6 +4,7 @@
 ### [Availability](availability.md)
 ### [Change history](Spring18/change-history.md)
 ### GDPR and accessibility
+#### [New stuff that doesn't belong here](Spring18/common-data-service-analytics/datapools.md)
 #### [Data protection and security](Spring18/data-protection-security.md)
 ##### [General Data Protection Regulation](Spring18/general-data-protection-regulation.md)
 ##### [Resources to manage GDPR compliance for your organization](Spring18/resources-manage-gdpr-compliance-organization.md)
