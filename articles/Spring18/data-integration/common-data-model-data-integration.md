@@ -27,6 +27,8 @@ Lead, Opportunity, and Product. It also offers interactions and relationships
 between vendors, workers, and customers, such as activities and service level
 agreements.
 
+![Teller is cool](media/kidswteller.jpg)
+
 | Case Name                                  | Total Number | Failed Number | Passed Number |
 |--------------------------------------------|--------------|---------------|---------------|
 | Missing alerts                             | 299          | 0             | 299           |
@@ -98,7 +100,7 @@ capabilities:
     templates simplify the process of connecting to common data sources such as
     Salesforce.com. Mapping templates are fully customizable and extensible.
 
->   ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.png "Import external data and map it to standard entities in Power Query")
+>   ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.PNG "Import external data and map it to standard entities in Power Query")
 
 *Import external data and map it to standard entities in Power Query*
 
