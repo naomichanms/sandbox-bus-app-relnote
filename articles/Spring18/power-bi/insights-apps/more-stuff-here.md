@@ -1,8 +1,8 @@
 ---
 # required metadata
 
-title: [Topic name]
-description: [One sentence description of feature.]
+title: New stuff
+description: Always good to have new stuff
 author: [author's GitHub alias]
 manager: [AnnBe/shellyhaverkamp/edupont04]
 ms.date: [Today's date]
