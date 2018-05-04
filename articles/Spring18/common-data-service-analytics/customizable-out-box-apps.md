@@ -1,3 +1,4 @@
+
 ---
 
 title: Customizable out-of-the-box apps
@@ -16,6 +17,10 @@ audience: Admin
 ---
 #  Customizable out-of-the-box apps
 
+[Link text](http://www.microsoft.com "Alt text") 
+
+
+![alt text for image](/entity-reference/media/johan.png "Hover text")
 
 [!include[banner](../../includes/banner.md)]
 
