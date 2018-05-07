@@ -29,6 +29,8 @@ assistance (UA) translation in Microsoft Word and HTML formats (.docx, .html)
 (Public Preview). Recycling capabilities from the latest Microsoft translations
 have also been enhanced for UI and documentation translation projects.
 
+[More info here](http://www.microsoft.com)
+
 - test1
 - test2
 
