@@ -31,6 +31,11 @@ have also been enhanced for UI and documentation translation projects.
 
 [More info here](http://www.microsoft.com)
 
+
+[link to topic](https://github.com/MicrosoftDocs/sandbox-bus-app-relnote/blob/mc-test/articles/Spring18/common-data-service-analytics/customizable-out-box-apps.md)
+
+
+
 - test1
 - test2
 
