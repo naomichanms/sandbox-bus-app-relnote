@@ -21,7 +21,7 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
-The Marketing application features comprehensive event management, which helps
+The **Marketing application** features comprehensive event management, which helps
 you plan, execute, promote, and follow-up on webinars and in-person events.
 Start your planning by modeling your venue, booking speakers, collecting
 sponsors, and setting up your event schedule. Then publish your event details
